@@ -2,7 +2,7 @@
 my github hosts my projects and business ideas. it doesn't include fun projects I've worked on, so i'm still working on that. 
 
 ### about
-i'm an engineer and designer, mostly developing working technologies and products for fun. From mobile/web applications, to preparing and serializing and trainig machine learning models. My favorite sagas are Lord of the Rings and Star Wars. I also enjoy outdoors and playing the guitar/piano.
+i'm an engineer and designer, mostly developing working technologies and products for fun. From mobile/web applications, to preparing, serializing data and trainig machine learning models. My favorite sagas are Lord of the Rings and Star Wars. I also enjoy outdoors and playing the guitar/piano.
 
 <!--
 **Taycanstar/Taycanstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
