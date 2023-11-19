@@ -1,7 +1,7 @@
 ### Hi
 my github hosts my projects and business ideas. it doesn't include fun projects I've worked on, so i'm still working on that. 
 
-###about
+### about
 i'm an engineer and designer, mostly developing working technologies and products for fun. From mobile/web applications, to preparing and serializing and trainig machine learning models. My favorite sagas are Lord of the Rings and Star Wars. I also enjoy outdoors and playing the guitar/piano.
 
 <!--
